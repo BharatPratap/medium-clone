@@ -1,0 +1,1 @@
+const articlecontroller = require('./../models/Article')
