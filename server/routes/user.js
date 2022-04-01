@@ -1,3 +1,4 @@
+require('dotenv').config();
 const usercontroller = require('./../controllers/user.ctrl')
 
 module.exports = (router) => {
